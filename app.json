@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "anim-al",
+    "description": "AnimAL is an app to rescue animals in Albania. Powered by Lersoft",
+    "slug": "anim-al",
+    "privacy": "public",
+    "sdkVersion": "19.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leartgjoni.animal"
+    },
+    "android": {
+      "package": "com.leartgjoni.animal",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCWhnUBqlIaHLld1ke3Vjt1FRaxaJWl5uE"
+        }
+      }
+    }
+  }
+}
