@@ -8,7 +8,7 @@ The application has been developed with React Native, Expo, Redux, React Navigat
 ---
 
 # Here is an example:
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/1.jpeg)
+![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/1.jpeg =250x)
 
 ![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/2.jpeg)
 
