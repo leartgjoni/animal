@@ -8,11 +8,11 @@ The application has been developed with React Native, Expo, Redux, React Navigat
 ---
 
 # Here is an example:
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal-api/master/Demo/1.jpeg)
+![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/1.jpeg)
 
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal-api/master/Demo/2.jpeg)
+![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/2.jpeg)
 
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal-api/master/Demo/3.jpeg)
+![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/3.jpeg)
 
 # How to run the app
 
