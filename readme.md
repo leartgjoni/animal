@@ -9,10 +9,8 @@ The application has been developed with React Native, Expo, Redux, React Navigat
 
 # Here is an example:
 <img src="https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/1.jpeg" width="250">
-
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/2.jpeg)
-
-![alt text](https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/3.jpeg)
+<img src="https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/2.jpeg" width="250">
+<img src="https://raw.githubusercontent.com/leartgjoni/animal/master/Demo/3.jpeg" width="250">
 
 # How to run the app
 
